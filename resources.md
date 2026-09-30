@@ -16,6 +16,7 @@
 | 《企业应用架构模式》 | [Martin Fowler 模式目录](https://martinfowler.com/eaaCatalog/) | 每个模式的摘要 |
 | 《软件架构实践》ATAM 部分 | SEI 官网技术报告 | 搜索 ATAM Method for Architecture Evaluation |
 | 真题 | [xxlllq/system_architect](https://github.com/xxlllq/system_architect) | 历年真题与解析整理 |
+| 真题、模拟题、论文范文 | [xiaomabenten/system_architect](https://github.com/xiaomabenten/system_architect) | 2009–2024 真题解析、模拟题、思维导图；其中的官方教程 PDF 未见授权，教程请买正版 |
 
 其余书目可先通过图书馆或微信读书等渠道借阅，确认值得反复看再买。链接如有变动以站点实际为准。
 

@@ -15,6 +15,15 @@
 | [glossary.md](glossary.md) | 中英对照术语表 |
 | [resources.md](resources.md) | 书单：哪些要买，哪些有合法免费资源 |
 
+## 参考资料仓库
+
+| 仓库 | 用来做什么 | 注意 |
+| --- | --- | --- |
+| [xiaomabenten/system_architect](https://github.com/xiaomabenten/system_architect) | 历年真题与解析（2009–2024）、模拟题、论文范文、思维导图、计算题解析、机考绘图指南 | 仓库里的官方教程 PDF 未见出版方授权，教程请买正版；2024 年 3 月后部分最新资料转为付费或需关注公众号 |
+| [xxlllq/system_architect](https://github.com/xxlllq/system_architect) | 历年真题与章节分类解析 | 可与上面的真题互相核对答案 |
+
+使用建议：真题和论文范文放在第二、三阶段用；范文只学结构，论文内容一律用自己的项目素材。
+
 ## 进度
 
 | 阶段 | 时间 | 周次 | 状态 |
