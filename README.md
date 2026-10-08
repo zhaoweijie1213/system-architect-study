@@ -9,6 +9,7 @@
 | 路径 | 内容 |
 | --- | --- |
 | [plan/study-plan.md](plan/study-plan.md) | 四阶段按周计划（W1–W33）、每日时间安排、休息、复习节奏、英语 |
+| [plan/chapter-plan.md](plan/chapter-plan.md) | 大纲 × 教程章节对应、每周读哪几章、各章知识点清单 |
 | [notes/module-map.md](notes/module-map.md) | 教程模块 × 深读书目对照表（优先级、读哪些章节） |
 | [notes/](notes/) | 各模块的「教程说法 vs 原著理解」对照笔记 |
 | [essays/](essays/) | 论文素材卡、高频主题、练习论文 |
